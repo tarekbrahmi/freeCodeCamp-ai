@@ -1,0 +1,8 @@
+R  vs P => P
+R  vs S => R
+
+P  vs R => P
+P  vs S => S
+
+S  vs P => S
+S  vs R => R
